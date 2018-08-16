@@ -1,7 +1,5 @@
 # Arduino for 51
 
-51Arduino说明文件
-
 (2018年8月15日版)
 
 What’s This？
